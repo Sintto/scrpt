@@ -9,3 +9,4 @@ then
 else
         echo "bez zmeny"
 fi
+#eeere
